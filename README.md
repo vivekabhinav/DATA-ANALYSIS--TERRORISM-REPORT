@@ -1,6 +1,6 @@
 # DATA-ANALYSIS--TERRORISM-REPORT
 
-This project analyse the The Global Terrorism Database and give the insight like terrorist attack between the 1970 -2017 and also find the top 10 countries which have highest terrorist attack.
+This project analyse the The Global Terrorism Database and give the insight like terrorist attack between the year (1970 -2017) .
 
 The main Project goals are:
 
